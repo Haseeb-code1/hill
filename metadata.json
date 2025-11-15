@@ -1,0 +1,5 @@
+
+{
+  "name": "Hill Cipher Encryptor/Decryptor",
+  "description": "A web application to perform Hill Cipher encryption and decryption with 2x2 or 3x3 matrices. It provides a user-friendly interface to input text and keys, and instantly see the results."
+}
